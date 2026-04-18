@@ -251,7 +251,7 @@ All tables are connected using the **country** field.
 ## 👨‍💻 Author
 
 Prasad Karade  
-📧 karadeprasad023@gmail.com  
+📧Email: karadeprasad023@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/)  
 💻 [GitHub](https://github.com/Prasadg2023)
 
