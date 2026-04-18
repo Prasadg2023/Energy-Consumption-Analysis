@@ -81,8 +81,7 @@ All tables are connected using the **country** field.
 
 Prasad Karade  
 📧Email: karadeprasad023@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/)  
-💻 [GitHub](https://github.com/Prasadg2023)
+🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/)  💻 [GitHub](https://github.com/Prasadg2023)
 
 ---
 
