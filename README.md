@@ -247,13 +247,12 @@ All tables are connected using the **country** field.
 
 ---
 
+
 ## 👨‍💻 Author
 
-**Prasad Karade**  
-🎓 B.Tech in Artificial Intelligence & Data Science  
-
--  https://www.linkedin.com/in/prasad-karade-641799399/
--  GitHub: https://github.com/Prasadg2023
+Prasad Karade  
+📧 karadeprasad023@gmail.com  
+🔗 LinkedIn | 💻 GitHub
 
 ---
 
